@@ -1,4 +1,4 @@
 # export-trade
 This is a website like Amazon
 
-[export-kinda.com]
+Website like amazone (export-kinda.com)
